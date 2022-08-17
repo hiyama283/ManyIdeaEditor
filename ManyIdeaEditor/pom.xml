@@ -70,7 +70,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.github.distriful5061.manyidea.manyideaeditor/com.github.distriful5061.manyidea.manyideaeditor.HelloApplication
+                                com.github.distriful5061.manyidea.manyideaeditor/com.github.distriful5061.manyidea.manyideaeditor.MainApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
